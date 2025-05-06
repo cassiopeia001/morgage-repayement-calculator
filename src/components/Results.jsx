@@ -10,7 +10,7 @@ export default function Results({monthly, total}){
             
             {monthly===null || total===null ?  (
                 <div className='flex flex-col gap-3 items-center text-center justify-center h-full'>
-                    <img src="/assets/images/illustration-empty.svg" alt="empty illustration" />
+                    <img src="/morgage-repayement-calculator/assets/images/illustration-empty.svg" alt="empty illustration" />
                     <h1 className='text-xl text-White font-bold'>Results shown here</h1>
                     <p className='text-Slate-300 mb-3 font-medium'>Complete the form and click "calculate repayments" to see what you monthly repayments would be.</p>
                 </div>
