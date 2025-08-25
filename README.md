@@ -39,5 +39,5 @@ Users should be able to:
 - Mobile-first workflow
 - Accessibility best practises
 - [React](https://reactjs.org/) - JS library
-- [Vite] (https://vite.dev/) - Build tool for the web
-- [Tailwind] (https://tailwindcss.com/) - CSS Framework
+- [Vite](https://vite.dev/) - Build tool for the web
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
